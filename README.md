@@ -1,6 +1,8 @@
 # PushNotification_Android_Xamarin
 
-User Interface receives Notifications from a server using App Center and Firebase service.
+User Interface App
+The user receives Notifications from a server. 
+Using App Center and Firebase service.
 
 ## Prerequisites
 
